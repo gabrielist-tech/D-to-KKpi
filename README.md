@@ -1,4 +1,4 @@
-# D--K-K-pi-
+# $D^\pm \to K^+ K^- \pi^\pm$
 **Português**
 
 O decaimento $D^- \to K^- K^+ \pi^-$ (ou $D^- \to K^- K^- \pi^+$) descreve a desintegração por interação fraca do méson $D^-$ (constituído por quarks $\bar{c}d$) em um estado final de três corpos formado por dois mésons kaon ($K$) e um méson píon ($\pi$). O processo altera o sabor do quark *charm* mediado por bósons $W^\pm$, preservando a carga elétrica total em $-1$. Dependendo das cargas relativas nos produtos finais, a física de partículas o classifica como um decaimento Simplesmente ou Duplamente Cabibbo-Suprimido.
